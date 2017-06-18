@@ -1,8 +1,7 @@
 # SumoRobot
 An Arduino based robot that simulates sumo combats with other robots inside an arena
 
-
-![SumoRobot](https://lh5.googleusercontent.com/-9ArerPmuiZTNpkfwb-7r8yfkJnOwcU2_vzPAdTJZ93ZC2YbVKxDlMCwaEY4ql_I5lhXm2WythjeYNM=w1920-h935-rw)
+![SumoRobot](http://i.imgur.com/OaahqKM.jpg)
 
 The robots uses two sensors:
 * Ultrasonic Sensor HC-SR04
